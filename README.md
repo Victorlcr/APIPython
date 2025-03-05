@@ -1,2 +1,8 @@
-# APIPython
-Exercícios de formação durante o 1º semestre de 2025 para o curso de Ciência de Dados na Fatec 
+# Exercícios de Estrutura de Dados
+
+## 🌎 Near Earth Objects NASA API
+
+```
+sudo docker build -t neo .
+sudo docker run neo
+```
