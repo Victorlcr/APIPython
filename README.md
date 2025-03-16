@@ -1,4 +1,4 @@
-# Exercícios de Estrutura de Dados 2º semestre 2025
+# Exercícios de Estrutura de Dados - 2º semestre 2025
 
 ## 🌎 Near Earth Objects - NASA API
 
