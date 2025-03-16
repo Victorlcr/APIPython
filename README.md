@@ -6,4 +6,4 @@
 
 ## ⛅ Open Weather - API Metereológica
 
-- [Atividade 2 - *args, **kwargs e recursividade](./OpenWeather/)
+- [Atividade 2 - *args, **kwargs e recursividade](./OpenWeather/main.py)
