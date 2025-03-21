@@ -7,3 +7,7 @@
 ## ⛅ Open Weather - API Metereológica
 
 - [Atividade 2 - *args, **kwargs e recursividade](./OpenWeather/main.py)
+
+## 📽️ IMDB Top 1000 Movies - Dataset aberto de filmes
+
+- [Atividade 3 - Numpy e pandas](./IMDB/IMDB_Top_1000_Movies.py)
